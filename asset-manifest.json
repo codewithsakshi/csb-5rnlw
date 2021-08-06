@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://codewithsakshi.github.io/csb-5rnlw/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://codewithsakshi.github.io/csb-5rnlw/static/js/main.4a771fdd.chunk.js",
+    "main.js.map": "https://codewithsakshi.github.io/csb-5rnlw/static/js/main.4a771fdd.chunk.js.map",
+    "runtime-main.js": "https://codewithsakshi.github.io/csb-5rnlw/static/js/runtime-main.9331d302.js",
+    "runtime-main.js.map": "https://codewithsakshi.github.io/csb-5rnlw/static/js/runtime-main.9331d302.js.map",
+    "static/js/2.4107a5de.chunk.js": "https://codewithsakshi.github.io/csb-5rnlw/static/js/2.4107a5de.chunk.js",
+    "static/js/2.4107a5de.chunk.js.map": "https://codewithsakshi.github.io/csb-5rnlw/static/js/2.4107a5de.chunk.js.map",
+    "index.html": "https://codewithsakshi.github.io/csb-5rnlw/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://codewithsakshi.github.io/csb-5rnlw/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.4107a5de.chunk.js.LICENSE.txt": "https://codewithsakshi.github.io/csb-5rnlw/static/js/2.4107a5de.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9331d302.js",
+    "static/js/2.4107a5de.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.4a771fdd.chunk.js"
+  ]
+}
